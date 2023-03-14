@@ -1,0 +1,3 @@
+#!/bin/bas
+grep ^ [[:alpha:]] /etc/passwd
+
